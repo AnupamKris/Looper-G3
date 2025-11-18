@@ -1,0 +1,7 @@
+{
+  "name": "LoopStation Pro",
+  "description": "A professional-grade 4-track audio looper with BPM control, bar settings, and quantized recording.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
